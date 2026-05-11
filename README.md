@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ganga/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Ganga](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ganga/) |
+| **Get License** | [Request Licensing for Ganga](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ganga/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> নীলচে কুয়াশায় ঢাকা এই নিঝুম শহরে
+> আমার তৃষ্ণার্ত মন তোমায় খুঁজে মরে.. খুঁজে মরে..
+> শীতল হাওয়ায় ভাসে অচেনা এক ঘ্রাণ
+> তোমার মাঝেই যেন বাঁচে আমার প্রাণ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
